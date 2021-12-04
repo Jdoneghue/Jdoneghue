@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Jdoneghue
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...android apps
+- 🌱 I’m currently learning ...root android 
 - 💞️ I’m looking to collaborate on ...Magick
 
 
-- 📫 How to reach me ...
+- 📫 How to reach me ...serenity4jeff@gmail.com 
 
 <!---
 Jdoneghue/Jdoneghue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
